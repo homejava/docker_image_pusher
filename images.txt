@@ -4,6 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-jenkinsci/docker:2.492.2
 jenkinsci/jenkins:latest
+alibaba/nacos:1.4.2
+
 
